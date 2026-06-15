@@ -17,4 +17,4 @@ San Diego Appliance & HVAC Repair
 - HVAC Repair
 
 ## Book Service
-<a href="/book.html">Book Online in 30 Seconds</a>
+<a href="https://forms.gle/pYr8AbjbgyqS6LdTA">Book Online in 30 Seconds</a>
