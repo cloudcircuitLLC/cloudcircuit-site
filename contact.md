@@ -9,5 +9,4 @@ title: Contact
 
 San Diego, CA
 
-Book:
-https://forms.gle/pYr8AbjbgyqS6LdTA
+<a href="https://forms.gle/pYr8AbjbgyqS6LdTA">Book Online</a>
